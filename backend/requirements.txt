@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2
+pgvector
+pydantic
+python-dotenv
+python-multipart
+google-generativeai
+duckduckgo-search
+PyPDF2
+Pillow
